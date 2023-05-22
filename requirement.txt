@@ -1,5 +1,5 @@
 fastapi==0.70.0
 uvicorn==0.13
 torch
-SentecePiece==0.1.92
+SentecePiece==0.1.9
 transformers
